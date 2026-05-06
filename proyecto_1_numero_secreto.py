@@ -25,4 +25,4 @@ while intentos < 10:
         intentos +=1
     
     if intentos == 10:
-        print(f"Lo siento, el numero secreto era {numero}. ¡Mejor suerte a la proxima vez!")
+        print(f"Lo siento, el numero secreto era {numero}. ¡Mejor suerte a la proxima vez
